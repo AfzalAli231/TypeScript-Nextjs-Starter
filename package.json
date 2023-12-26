@@ -1,12 +1,12 @@
 {
-    "name": "create-cubicus-backend",
+    "name": "create-cubicus-frontend",
     "version": "10.2.1",
-    "description": "Quick and Easy TypeScript Express Starter",
+    "description": "Quick and Easy TypeScript Next.js Starter",
     "author": "Afzal Imdad <afzalimdad9@gmail.com>",
     "license": "MIT",
     "keywords": [
         "typescript",
-        "express",
+        "nextjs",
         "sequelize",
         "mongoose",
         "typeorm",
@@ -31,7 +31,7 @@
     ],
     "main": "bin/cli.js",
     "bin": {
-        "create-cubicus-backend": "bin/cli.js"
+        "create-cubicus-frontend": "bin/cli.js"
     },
     "scripts": {
         "start": "node bin/cli.js"
@@ -53,10 +53,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AfzalAli231/TypeScript-Express-Starter.git"
+        "url": "git+https://github.com/AfzalAli231/TypeScript-Nextjs-Starter.git"
     },
     "bugs": {
-        "url": "https://github.com/AfzalAli231/TypeScript-Express-Starter/issues"
+        "url": "https://github.com/AfzalAli231/TypeScript-Nextjs-Starter/issues"
     },
-    "homepage": "https://github.com/AfzalAli231/TypeScript-Express-Starter#readme"
+    "homepage": "https://github.com/AfzalAli231/TypeScript-Nextjs-Starter#readme"
 }
