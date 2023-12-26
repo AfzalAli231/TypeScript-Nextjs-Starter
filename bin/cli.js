@@ -11,7 +11,7 @@ const path = require("path");
 const starter = require("../lib/starter");
 const destination = getDest(process.argv[2]);
 
-function getDest(destFolder = "create-backend-server") {
+function getDest(destFolder = "create-cubicus-backend") {
     return path.join(process.cwd(), destFolder);
 }
 

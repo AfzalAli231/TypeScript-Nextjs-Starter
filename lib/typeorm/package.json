@@ -1,5 +1,5 @@
 {
-  "name": "create-backend-server",
+  "name": "create-cubicus-backend",
   "version": "0.0.0",
   "description": "TypeScript + TypeORM + PostgreSQL + Express API Server",
   "author": "",

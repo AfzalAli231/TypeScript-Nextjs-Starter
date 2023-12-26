@@ -10,23 +10,23 @@
 <h4 align="center">🚀 Express RESTful API Boilerplate Using TypeScript</h4>
 
 <p align ="center">
-  <a href="https://nodei.co/npm/create-backend-server" target="_blank">
-    <img src="https://nodei.co/npm/create-backend-server.png" alt="npm Info" />
+  <a href="https://nodei.co/npm/create-cubicus-backend" target="_blank">
+    <img src="https://nodei.co/npm/create-cubicus-backend.png" alt="npm Info" />
   </a>
 </p>
 
 <p align="center">
-    <a href="http://npm.im/create-backend-server" target="_blank">
-      <img src="https://img.shields.io/npm/v/create-backend-server.svg" alt="npm Version" />
+    <a href="http://npm.im/create-cubicus-backend" target="_blank">
+      <img src="https://img.shields.io/npm/v/create-cubicus-backend.svg" alt="npm Version" />
     </a>
-    <a href="http://npm.im/create-backend-server" target="_blank">
+    <a href="http://npm.im/create-cubicus-backend" target="_blank">
       <img src="https://img.shields.io/github/v/release/AfzalAli231/TypeScript-Express-Starter" alt="npm Release Version" />
     </a>
-    <a href="http://npm.im/create-backend-server" target="_blank">
-      <img src="https://img.shields.io/npm/dm/create-backend-server.svg" alt="npm Downloads" />
+    <a href="http://npm.im/create-cubicus-backend" target="_blank">
+      <img src="https://img.shields.io/npm/dm/create-cubicus-backend.svg" alt="npm Downloads" />
     </a>
-    <a href="http://npm.im/create-backend-server" target="_blank">
-      <img src="https://img.shields.io/npm/l/create-backend-server.svg" alt="npm Package License" />
+    <a href="http://npm.im/create-cubicus-backend" target="_blank">
+      <img src="https://img.shields.io/npm/l/create-cubicus-backend.svg" alt="npm Package License" />
     </a>
 </p>
 
@@ -71,7 +71,7 @@ Express is a fast, open and concise web framework and is a Node.js based project
 ### Install with the npm Global Package
 
 ```bash
-$ npm install -g create-backend-server
+$ npm install -g create-cubicus-backend
 ```
 
 ### Run npx to Install The Package
@@ -80,17 +80,17 @@ npx is a tool in the JavaScript package management module, npm.
 
 This is a tool that allows you to run the npm package on a single run without installing the package.
 
-If you do not enter a project name, it defaults to _create-backend-server_.
+If you do not enter a project name, it defaults to _create-cubicus-backend_.
 
 ```bash
-$ npx create-backend-server "project name"
+$ npx create-cubicus-backend "project name"
 ```
 
 ### Select a Templates
 
 <img src="https://github.com/AfzalAli231/TypeScript-Express-Starter/raw/images/cli.gif" alt="Example Cli" />
 
-Start your create-backend-server app in development mode at `http://localhost:3000/`
+Start your create-cubicus-backend app in development mode at `http://localhost:3000/`
 
 #### Template Type
 
@@ -120,11 +120,11 @@ Start your create-backend-server app in development mode at `http://localhost:30
 
 ## 🛎 Available Commands for the Server
 
--   Run the Server in production mode : `npm run start` or `Start create-backend-server` in VS Code
--   Run the Server in development mode : `npm run dev` or `Dev create-backend-server` in VS Code
--   Run all unit-tests : `npm test` or `Test create-backend-server` in VS Code
--   Check for linting errors : `npm run lint` or `Lint create-backend-server` in VS Code
--   Fix for linting : `npm run lint:fix` or `Lint:Fix create-backend-server` in VS Code
+-   Run the Server in production mode : `npm run start` or `Start create-cubicus-backend` in VS Code
+-   Run the Server in development mode : `npm run dev` or `Dev create-cubicus-backend` in VS Code
+-   Run all unit-tests : `npm test` or `Test create-cubicus-backend` in VS Code
+-   Check for linting errors : `npm run lint` or `Lint create-cubicus-backend` in VS Code
+-   Fix for linting : `npm run lint:fix` or `Lint:Fix create-cubicus-backend` in VS Code
 
 ## 💎 The Package Features
 
